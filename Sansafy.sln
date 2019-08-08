@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sansafy.Models", "Sansafy.Models\Sansafy.Models.csproj", "{61C7BDDC-16E7-41B6-8850-CCB29D0EBEDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sansafy.Repositories", "Sansafy.Repositories\Sansafy.Repositories.csproj", "{C642BB2C-0DC2-43F0-8BF1-F86B048AF530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61C7BDDC-16E7-41B6-8850-CCB29D0EBEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C7BDDC-16E7-41B6-8850-CCB29D0EBEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C7BDDC-16E7-41B6-8850-CCB29D0EBEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C7BDDC-16E7-41B6-8850-CCB29D0EBEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C642BB2C-0DC2-43F0-8BF1-F86B048AF530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C642BB2C-0DC2-43F0-8BF1-F86B048AF530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C642BB2C-0DC2-43F0-8BF1-F86B048AF530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C642BB2C-0DC2-43F0-8BF1-F86B048AF530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5006E5E-A763-4D26-AED7-CE4585104207}
+	EndGlobalSection
+EndGlobal
